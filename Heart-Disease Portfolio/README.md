@@ -1,7 +1,7 @@
-47551771: Le Khue Anh Nguyen
+Le Khue Anh Nguyen
 
 ## Title: 
-### Porfolio 4, Analysis of Heart Disease Dataset
+### Analysis of Heart Disease Dataset
 
 ## Description: 
 ### This portfolio is going to analyse a Heart Disease dataset and try to predict targets.
@@ -19,5 +19,3 @@
 
 ## Results: 
 The larger the sample size, the more correlate the features, the better the model for prediction
-
-## Contact information: lekhueanh.nguyen@students.mq.edu.au
